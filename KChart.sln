@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KChart", "KChart\KChart.csproj", "{464E78CF-15B2-480B-A4D3-A43982F5B771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KChartTest", "KChartTest\KChartTest.csproj", "{65BB1E93-6FB7-4868-A2D0-F701AEA58047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464E78CF-15B2-480B-A4D3-A43982F5B771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464E78CF-15B2-480B-A4D3-A43982F5B771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464E78CF-15B2-480B-A4D3-A43982F5B771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464E78CF-15B2-480B-A4D3-A43982F5B771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BB1E93-6FB7-4868-A2D0-F701AEA58047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BB1E93-6FB7-4868-A2D0-F701AEA58047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BB1E93-6FB7-4868-A2D0-F701AEA58047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BB1E93-6FB7-4868-A2D0-F701AEA58047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B54A568-87B2-4964-9690-CE7D31F80B83}
+	EndGlobalSection
+EndGlobal
